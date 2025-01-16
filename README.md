@@ -10,8 +10,8 @@ Time spent: **1** hour spent in total
 
 The following **required** functionality is completed:
 
-- [ x ] Users are see a screen with three labels and a button
-- [ x ] Tapping the button changes the screen color to a random color
+- [ √ ] Users are see a screen with three labels and a button
+- [ √ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -24,6 +24,18 @@ The following **required** functionality is completed:
 </div>
 
 ## App Brainstorming (Step 4)
+
+Instagram
+- Scroll up to refresh feed
+- Dark mode
+TikTok
+- Scrolling
+- Shop feature
+Spotify
+- Adding songs to playlists
+- Recommendations
+
+I would improve the Clock app to include an alarm that we set up in advance. I want to be able to schedule an alarm to wake up on the days I have a midterm or some event. Currently there is no way to do so.
 
 ## Notes
 
